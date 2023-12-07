@@ -1,2 +1,2 @@
 #!/bin/bash
-type -afptP /tmp/iamafile
+file /tmp/iamafile
